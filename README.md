@@ -1,6 +1,8 @@
 ### Hi there 👋
+- 🛠️ I’m looking to collaborate on things related to Korean.
 - 📫 How to reach me: email (see website for details)
-- 👯 I’m looking to collaborate on things related to Korean.
+
+I am very open to collaboration, please feel free to reach out!
 
 <!--
 **mcognetta/mcognetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
