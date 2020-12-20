@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 📫 How to reach me: email (see website for details)
+- 👯 I’m looking to collaborate on things related to Korean.
 
 <!--
 **mcognetta/mcognetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
