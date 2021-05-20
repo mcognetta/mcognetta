@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 - 🛠️ I’m looking to collaborate on things related to Korean.
 - 📫 How to reach me: email (see website for details)
 
