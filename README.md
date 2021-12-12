@@ -1,6 +1,8 @@
 ### Hello 👋
 - 🛠️ I’m looking to collaborate on things related to Korean.
 - 📫 How to reach me: email (see website for details)
+- [theoreticallygoodwithcomputers.com](https://theoreticallygoodwithcomputers.com)
+- Only kinda on Twitter: [@good_in_theory](https://twitter.com/good_in_theory)
 
 I am very open to collaboration, please feel free to reach out!
 
