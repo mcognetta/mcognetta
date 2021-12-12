@@ -1,7 +1,8 @@
-### Hello 👋
+### Yo
 - I’m looking to collaborate on things related to Korean.
 - Feel free to contact me via email (see website for details).
-- [theoreticallygoodwithcomputers.com](https://theoreticallygoodwithcomputers.com)
+  - For real, I like talking with people about stuff that interests them.
+- My personal site: [theoreticallygoodwithcomputers.com](https://theoreticallygoodwithcomputers.com)
 - I'm kinda on Twitter: [@good_in_theory](https://twitter.com/good_in_theory)
 
 <!--
