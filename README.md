@@ -3,9 +3,9 @@
 - Feel free to contact me via email (see website for details).
   - For real, I like talking with people about stuff that interests them.
 - My personal site: [theoreticallygoodwithcomputers.com](https://theoreticallygoodwithcomputers.com)
-- I'm kinda on Twitter: [@good_in_theory](https://twitter.com/good_in_theory)
+- Mastodon: [@mc](https://sigmoid.social/@mc)
 - PhD student at Tokyo Institute of Technology.
-- I do language stuff at Google.
+- I do language & keyboard stuff at Google.
 <!--
 **mcognetta/mcognetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
